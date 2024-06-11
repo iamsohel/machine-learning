@@ -37,4 +37,4 @@
   - **Anomaly detection**: Find unusual data point like fraud detection in transaction
   - **Dimensionality reduction**: compress data using fewer numbers
 #### Recommender systems
-#### Reinforcement learning
+### Reinforcement learning
