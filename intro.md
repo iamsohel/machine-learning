@@ -17,9 +17,11 @@
   
   add, user info   |       click?(0/1)            |       online advertising
 
-- Regression(Predict a number from infinitely many possible outputs): Housing price prediction:
-  - We can predict a housing price that has the dataset like size in sqft and price in 
-
+- **Example**:
+  - **Regression**(Predict a number from infinitely many possible outputs): Housing price prediction:
+    - We can predict a housing price that has the dataset like size in sqft and price in
+  - **Classification**: Breast Cancer Detection
+- Regression vs Classification?
 ### Unsupervised Learning
 #### Recommender systems
 #### Reinforcement learning
