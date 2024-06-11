@@ -18,7 +18,7 @@
   
   add, user info   |       click?(0/1)            |       online advertising
 
-- **Two Major Types of Supervised Learning**:
+- *Two Major Types of Supervised Learning*:
   - **Regression**(Predict a number from infinitely many possible outputs): Housing price prediction:
     - We can predict a housing price that has the dataset-like size in sqft and price in
   - **Classification**(predict category or class): Breast Cancer Detection
@@ -27,8 +27,14 @@
 - Regression vs Classification?
 ### Unsupervised Learning
 - Find something interesting in unlabeled data
+- data with input x but not with output y
 - No right answer will provide
 - find some pattern /structure
 - we call it unsupervised cause we don't supervise it with the correct data
+- *Types of Unsupervised Learning*
+  - **clustering**: Google News, DNA Microarray, Grouping customers
+    - take the data without labels and try to group them into clusters
+  - **Anomaly detection**: Find unusual data point like fraud detection in transaction
+  - **Dimensionality reduction**: compress data using fewer numbers
 #### Recommender systems
 #### Reinforcement learning
