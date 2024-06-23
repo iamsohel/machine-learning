@@ -28,6 +28,7 @@
 - ![image](https://github.com/iamsohel/machine-learning/assets/9135426/64917089-b9aa-4642-9469-754924aa1ace)
 - ![image](https://github.com/iamsohel/machine-learning/assets/9135426/6ef2211c-e8b1-44bc-bac0-33a6babc7d54)
 - The goal of linear regression is to find the parameters w or w and b that results in the smallest possible value for the cost function J
+- **Gradient Descent:** Gradient descent is an algorithm that you can use to try to minimize any function
 
 
 
